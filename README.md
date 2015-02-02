@@ -1,8 +1,7 @@
 Tenant Administration System
 ============
 
-A simple program that gives returns a specified number
-of random values give user provided information.
+A very simple tenant administration system.
 Copyright (C)  2014  Timur Lavrenti Kiyivinski & Brenton Edi
 
 This program is free software: you can redistribute it and/or modify
